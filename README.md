@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @felymaina
-- 👀 I’m interested in web development,game development with javascript, software testing cybersecurity and graphic design...
-- 🌱 I’m currently learning game development with unity and javascript
-- 💞️ I’m looking to collaborate on any and all projects involved in my areas of interest
-- 📫  reach me va email mynahfelyster@gmail.com
-                    twitter @ingenuity_graphics
-                    github : https://github.com/felymaina
+## 👋 Hi, I’m @felymaina
+
+ 👀 Creative Coder. Frontend Development & Creative Designer <BR>
+ 🌱 Interested in Game Develoment and Machine Learning<BR>
+ 💞️ Ready  to collaborate on any and all projects involved in my areas of interest<BR>
+ 📫  Reach Me via  =>
+                
+                    Email :  mynahfelyster@gmail.com<BR>
+                    Twitter : https://x.com/SFelystar<BR>
+                    Instagram : https://www.instagram.com/_symply_njeri_/ <BR>  
 
